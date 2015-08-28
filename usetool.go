@@ -1,7 +1,7 @@
 package main
 
 
-import "mytools"
+import "github.com/MyGoRepo/mytools"
 
 
 func main() {
